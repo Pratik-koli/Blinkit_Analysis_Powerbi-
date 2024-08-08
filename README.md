@@ -1,2 +1,1 @@
-KPI requirements: 
-Total Sales: Overall Revenue generated from all items sold.
+In this following Power bi project we have analyzed blinkit grocery company regarding thier sales in different tier cities as well as which category of items were sold , which items had high percentage of fat and which items with high percentage of fat,or low percentage of fat were sold more.
